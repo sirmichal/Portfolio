@@ -12,9 +12,8 @@ Welcome to my portfolio! Here you'll find a growing collection of projects that 
 ## Power BI
 | Project       | Description                |
 |---------------|----------------------------|
-| GitHub profile traffic   | Does Github portfolio is really necessary? Based on my own profile, I would try to verify it. | [Link to Project 1](link_to_project_1) |
-| Project 2     | Description of Project 2   | [Link to Project 2](link_to_project_2) |
-| Project 3     | Description of Project 3   | [Link to Project 3](link_to_project_3) |
+| GitHub profile traffic   | Does Github portfolio is really necessary? Based on my own profile, I would try to verify it. |
+| [Oil Prices Italy 2022](https://github.com/sirmichal/Oil_Prices_Italy_2022/blob/main/README.md) | Data visualization of Italy's fuel market in 2022. With a dataset comprising over 22,000 fuel prices collected from numerous stations, this Power BI project offers an in-depth analysis of fuel pricing trends across the country. |
 
 
 ---
