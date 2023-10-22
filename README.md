@@ -7,6 +7,7 @@ Welcome to my portfolio! Here you'll find a growing collection of projects that 
 
 - [Power BI](#power-bi)
 - [SQL](#sql)
+- [API](#api)
 
 ---
 
@@ -27,3 +28,8 @@ Welcome to my portfolio! Here you'll find a growing collection of projects that 
 
 
 ---
+
+## SQL
+| Project       | Description                |
+|---------------|----------------------------|
+| link  | Excel Crypto portfolio powered by the real time data from API.|
