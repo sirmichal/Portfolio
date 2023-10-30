@@ -29,7 +29,7 @@ Welcome to my portfolio! Here you'll find a growing collection of projects that 
 
 ---
 
-## SQL
+## API
 | Project       | Description                |
 |---------------|----------------------------|
-| link  | Excel Crypto portfolio powered by the real time data from API.|
+| [Excel based Crypto dashboard](https://github.com/sirmichal/Crypto_API_Excel/blob/main/README.md) | Excel Crypto portfolio powered by the real time data from API.|
